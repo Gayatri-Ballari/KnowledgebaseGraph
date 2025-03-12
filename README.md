@@ -1,1 +1,1 @@
-# gen-ai-reusable-modules
+# KnowledgeBaseGraph
